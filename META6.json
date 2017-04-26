@@ -1,5 +1,6 @@
 {
   "name" : "Getopt::Tiny",
+  "license" : "Artistic-2.0",
   "source-url" : "git://github.com/tokuhirom/p6-Getopt-Tiny.git",
   "perl" : "6",
   "build-depends" : [ ],
